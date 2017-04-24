@@ -5,6 +5,11 @@ function init() {
 function onDeviceReady() {
 	navigator.notification.beep(1);
 }
+function authorInfo()
+{
+info= 'WSEI10141' 
+
+}
 
 function deviceInfo() {
 
